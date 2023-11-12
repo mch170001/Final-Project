@@ -33,12 +33,12 @@ Minimal Viable Outcome:
 
 - Week 1 (Nov 13 - 17)
   1. Goal 1: Research and organize fields and respected software in a spreadsheet or list 
-  2. Goal 2: 
+  2. Goal 2: Devise a solution to catagorize the software with defining variables
 
 - Week 2 (Nov 20 - 24)
-  1. Goal 1: 
-  2. Goal 2: 
+  1. Goal 1: Start writing the base line of the program, testing if it functions
+  2. Goal 2: Establish software and list of data in VS Code
 
 - Week 3 (Nov 27 - Dec 1) (Final)
-  1. Goal 1: 
-  2. Goal 2: 
+  1. Goal 1: Finalize the program
+  2. Goal 2: Quality testing and Debug
