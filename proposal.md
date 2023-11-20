@@ -7,9 +7,9 @@
 
 
 ## Features
-- Feature 1: Proper Field of Software
+- Feature 1: 
 	- 
-- Feature 2: Information of Software
+- Feature 2: 
 	- 
 - Feature N
 	-  
